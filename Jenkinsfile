@@ -29,7 +29,7 @@ pipeline{
     
     post{
         always{
-            echo 'this pipeline for shopping-portal completed...'
+            echo 'this pipeline for shopping-portal b4 completed...'
         }
         
     }
